@@ -1,2 +1,5 @@
 # hello-world
-Write a short description
+
+Hi stranger!
+
+How are you doing?
